@@ -1,0 +1,24 @@
+[
+    {
+        "id":987,
+        "cpf": "12345678900",
+        "nome": "Lucario",
+        "sobrenome": "Ash",
+        "cidade": "Palet",
+        "pais": "Kanto",
+        "link": "https://www.roblox.com/pt",
+        "imagem": "<img src= img/tigrinho.jpg  width= '200px'>"
+                    
+    },
+    {
+        "id":2,
+        "cpf": "00987654321",
+        "nome": "Tauros",
+        "sobrenome": "Brook",
+        "cidade": "Valet",
+        "pais": "Alola",
+        "link": "https://www.roblox.com/pt",
+        "imagem": "<img src='img/roblox.webp width= '200px'>"
+        
+    }
+]
